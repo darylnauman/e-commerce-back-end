@@ -24,7 +24,7 @@ The focus of this homework assignment for the University of Toronto SCS Coding B
 
 ## Walkthrough Video
 The following video demonstrates the application's functionality.
-- [Video]()
+- [Video](https://drive.google.com/file/d/1iZB4paB65z0jIRSfHUhNuqvarquSTXh9/view?usp=sharing)
 
 ## License
 This product is under the MIT License.
