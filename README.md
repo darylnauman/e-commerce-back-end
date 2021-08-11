@@ -6,7 +6,6 @@
 [Key Features](#key-features) <br/>
 [Walkthrough Video](#walkthrough-video) <br/>
 [Screenshots](#screenshots) <br/>
-[Contributing](#contributing) <br/>
 [Questions](#questions) <br/>
 [License](#license)
 
@@ -33,11 +32,8 @@ The images below show aspects of the application including output received from 
 
 ![Screenshot of sample mySQL table.](./assets/images/e-commerce-back-end-screenshot-03.png)
 
-## Contributing
-Please contact me if you wish to contribute to this application.
-
 ## Questions
-Please contact me, I'm happy to answer any questions
+Please contact me (see my profile), I'm happy to answer any questions.
 
 ## License
 This product is under the MIT License.
