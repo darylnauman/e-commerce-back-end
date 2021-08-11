@@ -1,16 +1,12 @@
-# Homework Assignment - Unit 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# E-Commerce Back End (Object-Relational Mapping (ORM)) 
 ![MIT License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
 ## Table of Contents
-[Description](#description)
-
-[Key Features](#key-features)
-
+[Description](#description) <br/>
+[Key Features](#key-features) <br/>
+[Walkthrough Video](#walkthrough-video) <br/>
+[Screenshots](#screenshots) <br/>
 [License](#license)
-
-[Walkthrough Video](#walkthrough-video)
-
-[Screenshots](#screenshots)
 
 ## Description
 The focus of this homework assignment for the University of Toronto SCS Coding Boot Camp was to build the back end for an e-commerce site by modifying starter code. Technologies used included MySQL, MySQL2, Sequelize, Express, Insomnia and dotenv package.
@@ -26,9 +22,6 @@ The focus of this homework assignment for the University of Toronto SCS Coding B
 The following video demonstrates the application's functionality.
 - [Video](https://drive.google.com/file/d/1iZB4paB65z0jIRSfHUhNuqvarquSTXh9/view?usp=sharing)
 
-## License
-This product is under the MIT License.
-
 ## Screenshots
 The images below show aspects of the application including output received from Insomnia when running different routes and an image of one of the mySQL tables.
 
@@ -37,3 +30,6 @@ The images below show aspects of the application including output received from 
 ![Screenshot of sample Insomnia output.](./assets/images/e-commerce-back-end-screenshot-02.png)
 
 ![Screenshot of sample mySQL table.](./assets/images/e-commerce-back-end-screenshot-03.png)
+
+## License
+This product is under the MIT License.
