@@ -1,4 +1,4 @@
-# E-Commerce Back End (Object-Relational Mapping (ORM)) 
+# E-Commerce Back End (Object-Relational Mapping) 
 ![MIT License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
 ## Table of Contents
@@ -6,6 +6,8 @@
 [Key Features](#key-features) <br/>
 [Walkthrough Video](#walkthrough-video) <br/>
 [Screenshots](#screenshots) <br/>
+[Contributing](#contributing) <br/>
+[Questions](#questions) <br/>
 [License](#license)
 
 ## Description
@@ -30,6 +32,12 @@ The images below show aspects of the application including output received from 
 ![Screenshot of sample Insomnia output.](./assets/images/e-commerce-back-end-screenshot-02.png)
 
 ![Screenshot of sample mySQL table.](./assets/images/e-commerce-back-end-screenshot-03.png)
+
+## Contributing
+Please contact me if you wish to contribute to this application.
+
+## Questions
+Please contact me, I'm happy to answer any questions
 
 ## License
 This product is under the MIT License.
