@@ -33,7 +33,7 @@ The images below show aspects of the application including output received from 
 ![Screenshot of sample mySQL table.](./assets/images/e-commerce-back-end-screenshot-03.png)
 
 ## Questions
-Please contact me (see my profile), I'm happy to answer any questions.
+If you have any questions please contact me (see my profile), I'm happy to answer any questions.
 
 ## License
 This product is under the MIT License.
